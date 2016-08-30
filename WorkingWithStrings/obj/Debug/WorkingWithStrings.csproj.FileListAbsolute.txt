@@ -1,0 +1,6 @@
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
+\\bds01\users\rhorrocks\visual studio 2015\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojResolveAssemblyReference.cache
